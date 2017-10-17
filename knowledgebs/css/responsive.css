@@ -1,0 +1,89 @@
+
+
+
+@media( max-width:1200px)
+{
+
+	.industry-icons {
+   
+    width: 42%;
+    float: right;
+}
+	
+
+
+}
+
+
+
+@media( max-width:992px){
+	
+.industry-icons {
+   
+    width: 42%;
+    float: right;}
+
+	
+}
+
+
+@media( max-width:768px){
+
+	.about-hc p {
+    font-size: 23px!important;
+    padding: 50px 80px 50px 80px!important;}
+
+ .footer-logo{
+ 	margin-top: 50px;}
+
+ .industry-icons {
+    width: 50%;
+    float: right;}
+
+
+    .client-lc img{
+	width: 100%;
+	text-align: center;
+	display: inline-block;}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.menu-list{
+		 float: right !important;
+    	margin-right: -64px!important;
+	}
+}
+
+@media( max-width:599px)
+{
+	.about-hc p {
+    font-size: 23px!important;
+    padding: 50px 50px 50px 50px!important;
+}
+
+	.industry-icons {
+    width: 58%;
+    float: right;
+}
+}
+
+
+@media( max-width:479px)
+{
+
+
+.industry-icons {
+    width: 70%;
+    float: right;
+}
+	
+	.industry-icons i {
+    font-size: 55px;
+    color: #fff;
+}
+.industry-icons i {
+    font-size: 59px;
+    color: #fff;
+}
+
+}
